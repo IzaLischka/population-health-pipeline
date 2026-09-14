@@ -37,3 +37,12 @@ Thumbs.db
 node_modules/
 dist/
 build/
+
+# synthea binary
+tools/*.jar
+
+# raw synthetic data (regenerate with scripts/generate_synthetic_data.py)
+data/raw/
+!data/raw/synthea/
+!data/raw/synthea/*/
+!data/raw/synthea/*/manifest.json
