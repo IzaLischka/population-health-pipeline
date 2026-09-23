@@ -1,0 +1,13 @@
+{
+  "dataset": "raw_synthea_patient_records",
+  "source_name": "Synthea 1K Sample Synthetic Patient Records (FHIR R4)",
+  "source_url": "https://synthea.mitre.org/downloads",
+  "ingestion_method": "manual_download",
+  "ingestion_note": "One-time manual download and extraction of a pre-generated Synthea sample set, chosen over local generation because of a known Synthea failure mode where certain seeds put a simulated patient into a runaway aging loop. Other portfolio projects demonstrate API/SFTP/streaming ingestion instead; this repo's raw layer is documented here rather than automated because that isn't this project's point of emphasis.",
+  "downloaded_at": "2026-09-15T19:07:49.737502+00:00",
+  "documented_at": "2026-09-15T19:07:50.973426+00:00",
+  "file_count": 558,
+  "total_size_bytes": 1138771749,
+  "checksum_algorithm": "sha256",
+  "checksums_file": "checksums.sha256"
+}
