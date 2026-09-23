@@ -1,4 +1,4 @@
-# population-health-pipeline
+﻿# population-health-pipeline
 
 Population health data pipeline for chronic condition management medallion
 architecture, batch + streaming, with multi-tenant analytics for hospitals
@@ -42,4 +42,4 @@ _(added in a later step orchestration, governance & quality, observability, clie
 
 ## License
 
-MIT —> see [LICENSE](./LICENSE).
+MIT, see [LICENSE](./LICENSE).

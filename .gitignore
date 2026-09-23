@@ -37,3 +37,13 @@ Thumbs.db
 node_modules/
 dist/
 build/
+
+# synthea binary
+tools/*.jar
+
+# raw synthetic data (see data/raw/synthea/SOURCE.md for provenance)
+data/raw/
+!data/raw/synthea/
+!data/raw/synthea/SOURCE.md
+!data/raw/synthea/manifest.json
+!data/raw/synthea/checksums.sha256
