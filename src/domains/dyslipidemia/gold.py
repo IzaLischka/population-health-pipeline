@@ -1,1 +1,1 @@
-﻿"""Dyslipidemia gold layer. Added in a later step."""
+"""Dyslipidemia gold layer. Added in a later step."""

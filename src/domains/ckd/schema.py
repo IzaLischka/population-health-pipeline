@@ -1,1 +1,1 @@
-﻿"""CKD schema layer. Added in a later step."""
+"""CKD schema layer. Added in a later step."""

@@ -1,1 +1,1 @@
-﻿"""CKD silver layer. Added in a later step."""
+"""CKD silver layer. Added in a later step."""

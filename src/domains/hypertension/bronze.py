@@ -1,1 +1,1 @@
-﻿"""Hypertension bronze layer. Added in a later step."""
+"""Hypertension bronze layer. Added in a later step."""

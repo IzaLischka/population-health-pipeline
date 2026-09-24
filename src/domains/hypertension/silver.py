@@ -1,1 +1,1 @@
-﻿"""Hypertension silver layer. Added in a later step."""
+"""Hypertension silver layer. Added in a later step."""

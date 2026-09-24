@@ -1,1 +1,1 @@
-﻿"""Diabetes gold layer. Added in a later step."""
+"""Diabetes gold layer. Added in a later step."""

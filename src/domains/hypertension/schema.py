@@ -1,1 +1,1 @@
-﻿"""Hypertension schema layer. Added in a later step."""
+"""Hypertension schema layer. Added in a later step."""

@@ -1,1 +1,1 @@
-﻿"""CKD bronze layer. Added in a later step."""
+"""CKD bronze layer. Added in a later step."""

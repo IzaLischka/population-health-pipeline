@@ -1,1 +1,1 @@
-﻿"""Dyslipidemia bronze layer. Added in a later step."""
+"""Dyslipidemia bronze layer. Added in a later step."""

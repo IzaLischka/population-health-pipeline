@@ -1,1 +1,1 @@
-﻿"""Diabetes bronze layer. Added in a later step."""
+"""Diabetes bronze layer. Added in a later step."""
