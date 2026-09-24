@@ -31,7 +31,7 @@ def sample_files(source_dir: Path, sample_size: int, seed: int) -> list[Path]:
     if not all_files:
         print(f"No .json files found under {source_dir}.")
         sys.exit(1)
-    random.Random(seed).shuffle(all_files)
+    random.Random(seed).shuffle(all_files)  # nosec B311 - sampling for a test fixture, not security-sensitive
     return all_files[:sample_size]
 
 
